@@ -1,5 +1,5 @@
 # WoooTer's Blog
 
-## [Mybatis](https://xxx)
+## Mybatis
 
 1. [xxx](https://xxx)
